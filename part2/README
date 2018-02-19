@@ -1,0 +1,3 @@
+README:
+The iterpolation folder has all the .cpp and .h files. The main function in the main.cpp file has been all commented out . Uncomment the correspond code to operate functions.
+The ploting_using_root folder has one draw.C file. This file could be execute be root5. Other .txt files are data.
